@@ -1,0 +1,12 @@
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\bin\Debug\net5.0\Modelos.deps.json
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\bin\Debug\net5.0\Modelos.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\bin\Debug\net5.0\ref\Modelos.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\bin\Debug\net5.0\Modelos.pdb
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.csprojAssemblyReference.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfo.cs
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\ref\Modelos.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Modelos\obj\Debug\net5.0\Modelos.pdb

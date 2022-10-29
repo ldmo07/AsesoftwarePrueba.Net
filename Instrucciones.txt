@@ -1,0 +1,8 @@
+1 => ejecutar el script  creacionBD
+2 => ejecutar el script  SpTurno  (este script es el sp que genera los turnos)
+3 => ejecutar el proyecto
+
+Nota => Se genero la prueba con .net core 5 usando dapper Ado.net y EntityFramework
+
+Los Crud de ejemplo de EntityFramework son para los modelos de Clientes y direcciones , 
+los demas Crud de los modelos estan desarrollados en Ado.net con Dapper

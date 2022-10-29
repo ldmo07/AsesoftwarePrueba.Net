@@ -1,0 +1,17 @@
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Data.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Data.pdb
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.csprojAssemblyReference.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\obj\Debug\net5.0\Negocio.pdb
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Modelos.dll
+C:\Users\lmercado\Documents\AsesofPrueba\backendNET\TurnosBackend\Negocio\bin\Debug\net5.0\Modelos.pdb
